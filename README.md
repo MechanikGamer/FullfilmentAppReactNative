@@ -19,9 +19,7 @@ To address the language barrier and simplify operations in the Polish fulfillmen
 
 Explore the repository to delve into the codebase, understand the challenges encountered, and the innovative solutions deployed. Your insights, feedback, and contributions are welcome and highly appreciated!
 
-![Screenshot](/images/screen1.png "Screenshot")
-![Screenshot](/images/main.png "Screenshot")
-![Screenshot](/images/screen2.png "Screenshot")
+![Screenshot](/images/screenshot.png "Screenshot")
 
 To Run:
 
