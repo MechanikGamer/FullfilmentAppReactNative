@@ -57,9 +57,6 @@ BACKEND_API_URL=http://localhost:8000
 
 ## 0.03A
 
-Main colors: #DC3C5E
-Secondarycolor #007FFF
-
 Frontend:
 
 Backend:
