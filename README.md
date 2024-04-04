@@ -53,6 +53,7 @@ Main .env
 
 ```
 BACKEND_API_URL=http://localhost:8000
+```
 
 ## 0.03A
 
@@ -63,7 +64,7 @@ Frontend:
 
 Backend:
 
-```
+
 
 ## 0.02A
 
